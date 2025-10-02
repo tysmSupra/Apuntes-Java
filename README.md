@@ -1,4 +1,3 @@
-# Apuntes-Java[apunte_completo_programacion_ii_java_utn_2024.md](https://github.com/user-attachments/files/22661060/apunte_completo_programacion_ii_java_utn_2024.md)
 # Apunte Completo – Programación II (Java)
 **Cátedra:** Programación II – UTN · Ciclo Lectivo 2024  
 **Propósito:** Guía integral y unificada de todo el material subido (Introducción a Java, Conceptos POO, java1–7, Hilos, Colecciones/equals/hashCode, Wrappers/String, Sintaxis, E/S y Serialización).
