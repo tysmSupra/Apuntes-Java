@@ -349,7 +349,4 @@ try (var ois = new java.io.ObjectInputStream(new java.io.FileInputStream("alumno
 
 ---
 
-### Notas finales
-- Este apunte consolida el temario completo de: **Introducción a Java**, **Bases y Sintaxis**, **Clases y Objetos/POO**, **Wrappers y Strings**, **Object/equals/hashCode**, **Collections**, **Hilos/Concurrencia**, **Entrada/Salida**, **Serialización**.  
-- Se mantuvieron ejemplos representativos y prácticas recomendadas. Si necesitás una versión con **secciones colapsables** para Notion, la genero a pedido.
 
